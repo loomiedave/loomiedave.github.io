@@ -26,11 +26,16 @@ a:visited {
 
 .logo-container{
 	display:block;
-	width:50%;
 	margin:auto;
-	
 	position:relative;
 	text-align: center;
+	padding:0px;
+}
+
+.google-container{
+	display:block;
+	position:relative;
+	margin:0;
 }
 
 .letter-b{
