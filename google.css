@@ -135,8 +135,10 @@ footer{
   float:right;
   margin-right: 10px;
 }
+
 .article{
-	padding:20px;
+        padding:20px;
+	margin-left: 20px;
 }
 
 
